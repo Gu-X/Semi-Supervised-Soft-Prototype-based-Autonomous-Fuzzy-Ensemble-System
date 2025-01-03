@@ -1,9 +1,9 @@
 # Semi-Supervised-Soft-Prototype-based-Autonomous-Fuzzy-Ensemble-System
-The MATLAB code for the research paper titled "A Semi-Supervised Soft Prototype-based Autonomous Fuzzy Ensemble System 
+The Python code for the research paper titled "A Semi-Supervised Soft Prototype-based Autonomous Fuzzy Ensemble System 
 for Network Intrusion Detection".
 This work is described in:
 ===============================================================================================================================
-Gu, X., Howells, G., Yuan, H. (2024). A Semi-Supervised Soft Prototype-based Autonomous Fuzzy Ensemble System for Network 
+Gu, X., Howells, G., Yuan, H. (2025). A Semi-Supervised Soft Prototype-based Autonomous Fuzzy Ensemble System for Network 
 Intrusion Detection. Applied Soft Computing, Accepted.
 ===============================================================================================================================
 Please cite the paper above if this code helps. 
