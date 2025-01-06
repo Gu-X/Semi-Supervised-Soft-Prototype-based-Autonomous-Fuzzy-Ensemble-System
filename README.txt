@@ -10,4 +10,4 @@ Please cite the paper above if this code helps.
 Programmed by Xiaowei Gu. For any queries about the code, please contact Dr. Xiaowei Gu: xiaowei.gu@surrey.ac.uk
 
 
-The data used for demo is not avaiable in this repo. The links to the datasets used for experiments can be found in this paper.
+The data used for demo in this repo is an example. The links to the datasets used for experiments can be found in this paper.
