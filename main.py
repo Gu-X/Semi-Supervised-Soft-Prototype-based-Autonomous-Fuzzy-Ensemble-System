@@ -35,7 +35,7 @@ mcc1a=numpy.zeros((CT,))
     
 count=0
 
-NN=10
+NN=1
 
 acc1=numpy.zeros((NN,))
 f11=numpy.zeros((NN,))
@@ -56,7 +56,7 @@ ckratio=0.05;
 
 for ii in range(0,NN):
     print(ii)
-    dr='/Data/HIKARI/PC1/data_'+str(ii+1) +'.mat'
+    dr='Data/CICIDS2017/PC1/data_'+str(ii+1) +'.mat'
     data0,y0,data10,y10,data1,y1=matdataload(dr)
     chunksize=10000#int((y0.shape[0]+y10.shape[0]+y1.shape[0])*ckratio)
     
